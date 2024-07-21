@@ -1,0 +1,15 @@
+{
+    "name": "real-end-to-end-ml",
+    "workspaceFolder": "/workspaces/real-end-to-end-ml",
+    "settings": {
+        "terminal.integrated.env.linux": {
+            "PYTHONPATH": "${workspaceFolder}/src"
+        }
+    },
+    "extensions": [
+        "ms-python.python",
+        "ms-azuretools.vscode-docker"
+    ],
+    "postCreateCommand": "poetry install",
+    "remoteUser": "vscode"
+}
