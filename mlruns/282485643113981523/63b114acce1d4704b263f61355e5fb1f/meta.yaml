@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/real-end-to-end-ml/mlruns/282485643113981523/63b114acce1d4704b263f61355e5fb1f/artifacts
+end_time: 1721597893484
+entry_point_name: ''
+experiment_id: '282485643113981523'
+lifecycle_stage: active
+run_id: 63b114acce1d4704b263f61355e5fb1f
+run_name: worried-lamb-701
+run_uuid: 63b114acce1d4704b263f61355e5fb1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721597891118
+status: 3
+tags: []
+user_id: codespace
