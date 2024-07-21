@@ -19,6 +19,7 @@ fastapi = "^0.111.1"
 python-dotenv = "^1.0.1"
 plotly = "^5.22.0"
 scikit-learn = "^1.5.1"
+ipykernel = "^6.29.5"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
