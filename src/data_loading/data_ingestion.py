@@ -53,8 +53,8 @@ class DataIngestion:
 
 # Configuration
 bucket_name = 'taaha-aws'
-object_key = 'national+poll+on+healthy+aging+(npha)/NPHA-doctor-visits.csv'
-local_file_path = 'data/raw/NPHA-doctor-visits_version1.csv'
+object_key = 'ObesityDataSet_raw_and_data_sinthetic.csv'
+local_file_path = 'data/raw/ObesityDataset_raw.csv'
 
 # Data ingestion
 data_ingestion = DataIngestion()
